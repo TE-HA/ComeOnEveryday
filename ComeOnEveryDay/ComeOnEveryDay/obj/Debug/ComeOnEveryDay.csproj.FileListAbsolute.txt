@@ -1,0 +1,14 @@
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\ComeOnEveryDay.exe.config
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\ComeOnEveryDay.exe
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\ComeOnEveryDay.pdb
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.Form1.resources
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.Properties.Resources.resources
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.csproj.GenerateResource.cache
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.csproj.CoreCompileInputs.cache
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.exe
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.pdb
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\MarkerMetro.Unity.WinLegacy.dll
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.csproj.CopyComplete
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\Newtonsoft.Json.dll
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\bin\Debug\Newtonsoft.Json.xml
+F:\mine\ComeOnEveryDay\ComeOnEveryDay\ComeOnEveryDay\obj\Debug\ComeOnEveryDay.csprojAssemblyReference.cache
